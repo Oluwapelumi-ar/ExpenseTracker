@@ -22,5 +22,3 @@ const clickHandler=() =>{
     )
 }
 export default ExpenseItem
-
-
