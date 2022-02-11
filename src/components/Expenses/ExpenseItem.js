@@ -8,7 +8,6 @@ const [title,setTitle]= useState(props.title)
 
 const clickHandler=() =>{
     setTitle('Update');
-    console.log(title)
 }
     return (
     <div className="expense-item" >  
